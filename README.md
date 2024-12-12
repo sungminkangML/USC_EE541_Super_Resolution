@@ -35,7 +35,7 @@ You can run the code with the each code below:
 ### Train code
  ```bash
 python main.py --model srcnn --dataset_path ./dataset --ds_rate x4 --mode train --batch_size 32 --epochs 100 --learning_rate 2e-4
-
+```
 ### Test code
  ```bash
 python main.py --model srgan --dataset_path ./dataset --ds_rate x2 --mode test --batch_size 16 --epochs 50 --learning_rate 1e-4 --load_path srgan_x2_batch16_epoch50_lr0.0001_12-08_19-03.pth
