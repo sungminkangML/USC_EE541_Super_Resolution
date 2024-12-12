@@ -27,7 +27,7 @@ In this project, we use the HR and the bicubic down-sampled images from the DIV2
  wget http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip
  wget http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_test_HR.zip
 
----
+
 
 ## Run code
 You can run the code with the each code below:
