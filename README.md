@@ -35,6 +35,11 @@ You can run the code with the each code below:
 ### Train code
  ```bash
 python main.py --model srcnn --dataset_path ./dataset --ds_rate x4 --mode train --batch_size 32 --epochs 100 --learning_rate 2e-4
+
+---
+## Example Results
+### Learning Curves
+![Learning Curve of SRCNN](/your_image_name.png)
 ```
 
 ### Test code
