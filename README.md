@@ -43,5 +43,9 @@ python main.py --model srgan --dataset_path ./dataset --ds_rate x2 --mode test -
 
 ---
 ## Example Results
+
 ### Learning Curves
 ![Learning Curve of SRCNN](/srcnn_x2_batch32_epoch100_lr0.0002_12-09_14-49_plot.png)
+
+### Super Resolution Results
+![SR results](/SR4.png)
