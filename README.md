@@ -39,7 +39,7 @@ python main.py --model srcnn --dataset_path ./dataset --ds_rate x4 --mode train 
 ---
 ## Example Results
 ### Learning Curves
-![Learning Curve of SRCNN](/your_image_name.png)
+![Learning Curve of SRCNN](/srcnn_x2_batch32_epoch100_lr0.0002_12-09_14-49_plot.png)
 ```
 
 ### Test code
